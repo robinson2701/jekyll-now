@@ -1,5 +1,5 @@
 ---
-title: Copy of Using Github Template - Rowan McGirr
+title: 3rd Lesson in Computing
 layout: post
 author: rowan.mcgirr
 permalink: /copy-of-using-github-template---rowan-mcgirr/

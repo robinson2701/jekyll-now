@@ -18,7 +18,10 @@ html {
 }
 
 body {
-	background: $green;`	
+	background-image: url("https://i.ytimg.com/vi/lt0WQ8JzLz4/maxresdefault.jpg");
+    	background-repeat: no-repeat;
+    	background-position: right top;
+    	background-attachment: fixed;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }

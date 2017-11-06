@@ -1,5 +1,5 @@
 ---
-title: Lesson 2 IT Year 9
+title: Lesson 1 After Half Term
 layout: post
 author: rowan.mcgirr
 permalink: /lesson-2-it-year-9/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Lesson 2</td>
+    <td>Lesson 1 After Half Term</td>
     <td>Date</td>
-    <td>6/10
+    <td>6/11
 /17</td>
   </tr>
 </table>
@@ -20,11 +20,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Price List on Sheets</td>
+    <td>What is cryptography?</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To create discounts, VAT and variables</td>
+    <td>To understand what cryptography is and how to use it in sheets using the variable vlookup.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -42,13 +42,13 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I listened really well and took note on what we had to do. I found it really enjoyable. I asked my partner for help as I arrived late to the lesson but completed the work.</td>
+    <td>I listened really well and took note on what we had to do. I found it really enjoyable. It was confusing at first but I soon got the hang of it.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on?</td>
   </tr>
   <tr>
-    <td>To use the variables even more e.g if and vlookup.</td>
+    <td>To remember to is the time well as sometimes I can forget what I just did which wasted a lot of time.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>

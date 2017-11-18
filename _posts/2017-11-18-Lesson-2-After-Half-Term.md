@@ -1,0 +1,62 @@
+---
+title: Lesson 2 After Half Term
+layout: post
+author: rowan.mcgirr
+permalink: /lesson-2-after-half-term/
+source-id: 1SfZISFD7lt3LFmA6YPzR1qYyioaj4Niegou6P88zjo4
+published: true
+---
+<table>
+  <tr>
+    <td>Title</td>
+    <td>Lesson 2 Cryptography</td>
+    <td>Date</td>
+    <td>18/11
+/17</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Starting point:</td>
+    <td>Cryptography code</td>
+  </tr>
+  <tr>
+    <td>Target for this lesson?</td>
+    <td>To be able to encrypt a code</td>
+  </tr>
+  <tr>
+    <td>Did I reach my target? 
+(add details to "Lesson Review")</td>
+    <td>Yes, I worked quickly and completed the task set.</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Lesson Review</td>
+  </tr>
+  <tr>
+    <td>How did I learn? What strategies were effective? </td>
+  </tr>
+  <tr>
+    <td>I knew what I had to do coming into the lesson and got it done by working hard and asking the teacher for help when I rarely got confused on a line or topic in my work. I worked efficiently and quickly to be able to, as well as carry on Cryptography test if my blog was working because github have changed a few things causing page failures, warnings and problems.
+This time I didn't check my blog!</td>
+  </tr>
+  <tr>
+    <td>What limited my learning? Which habits do I need to work on?</td>
+  </tr>
+  <tr>
+    <td>To not get distracted by checking what my blog. This will make me work faster and more efficiently. To not distract others my talking to them.</td>
+  </tr>
+  <tr>
+    <td>What will I change for next time? How will I improve my learning?</td>
+  </tr>
+  <tr>
+    <td>By not asking for too much help and use the resources around me for GUIDANCE not the ANSWER! This will enhance my learning and make me confident whilst coding. It is also a good skill for later in life - persevere!!      </td>
+  </tr>
+</table>
+
+
